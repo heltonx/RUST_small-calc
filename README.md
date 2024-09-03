@@ -1,9 +1,7 @@
 # RUST_small-calc
 small calculator in Rust
 
-last test 03/09/2024
-
-
+Last check: Sep 03 2024 15:13
 
 made in visual studio
 
